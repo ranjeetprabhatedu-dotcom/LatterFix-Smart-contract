@@ -1,8 +1,2 @@
-**/target/
-**/*.rs.bk
-*.swp
-.DS_Store
-
-.env.local
-.env
-**/node_modules/
+config.bat
+node_modules
